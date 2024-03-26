@@ -62,7 +62,7 @@ function App() {
     if (percentage === 100) {
       return 'Nice job for today! 🏝';
     }
-    return 'Keep it going 💪🏻';
+    return 'Keep it going 💪🏻...';
 
   }
 
